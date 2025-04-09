@@ -26,6 +26,14 @@ Technologies I Work With:
 - Technical Writing: API Documentation, Markdown, Jekyll
 - Frameworks: Flask, Django, ReactJS, VueJS
 
+## What I Bring to the Table
+
+- 7+ years of software engineering experience
+- Strong focus on web technologies, backend; logging, debugging and DevOps tools
+- Clear, developer-friendly writing that doesn’t oversimplify
+
+> Trusted by developer-focused companies like Draft.dev
+
 ## Let's Connect  
 
 Need a skilled technical writer? Whether it's API documentation, tutorials, or developer guides, I'd love to help. Let’s chat!
