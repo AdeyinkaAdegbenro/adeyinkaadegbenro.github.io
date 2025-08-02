@@ -6,6 +6,9 @@ permalink: /writing/
 
 ## Programming Tutorials
 
+- **[How to Embed Payroll into Your Application: 5 Key Steps for Success](https://embedded.gusto.com/blog/how-to-embed-payroll-5-key-steps/)**
+  A five-step guide to setting up payroll using an embedded payroll platform.
+
 - **[Build a TypeScript App with Bazel](https://earthly.dev/blog/using-bazel-with-typescript/)**  
   Explains how to prepare a workspace, run and test, and package and publish a basic application using TypeScript with Bazel.
 
