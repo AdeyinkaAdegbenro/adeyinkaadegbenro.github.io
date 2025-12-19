@@ -23,6 +23,8 @@ permalink: /writing/
 - **[Sending SMS Verification Using Node.js [How-To Guide]](https://www.courier.com/guides/sms-verification-nodejs)**  
   A guide on sending SMS notifications using Node.js and Courier.
 
+- **[How to Embed Payroll into Your Application: 5 Key Steps for Success](https://embedded.gusto.com/blog/how-to-embed-payroll-5-key-steps/)** Demonstrates how to use the Gusto API to embed payroll into a new or existing application.
+
 ## Data Management and Visualization
 
 - **[Tableau and PostgreSQL: How To Make Them Work Together](https://blog.panoply.io/tableau-and-postgresql-two-ways-of-working-together)**  
@@ -56,6 +58,8 @@ permalink: /writing/
 ## Backup and Security
 
 - **[Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://community.rapyd.net/t/mastering-3ds-balancing-security-ux-and-authentication-rates/60019)** Explains how to balance security measures in payments with user experience to avoid friction.
+
+- **[Tokenization in Payments: The Future of Secure, Anonymous Transactions](https://community.rapyd.net/t/tokenization-in-payments-the-future-of-secure-anonymous-transactions/59799)** Explores how tokenization works to protect sensitive payment data in transactions.
 
 - **[3 Ways to Back Up and Restore Repositories in Bitbucket Cloud](https://www.backhub.co/blog/back-up-and-restore-repositories-bitbucket-cloud)**  
   Compares different methods for backing up and restoring a single repository from a Bitbucket Cloud account.
