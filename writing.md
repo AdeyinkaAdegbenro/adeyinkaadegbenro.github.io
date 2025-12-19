@@ -55,6 +55,8 @@ permalink: /writing/
 
 ## Backup and Security
 
+- **[Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://community.rapyd.net/t/mastering-3ds-balancing-security-ux-and-authentication-rates/60019)** Explains how to balance security measures in payments with user experience to avoid friction.
+
 - **[3 Ways to Back Up and Restore Repositories in Bitbucket Cloud](https://www.backhub.co/blog/back-up-and-restore-repositories-bitbucket-cloud)**  
   Compares different methods for backing up and restoring a single repository from a Bitbucket Cloud account.
 
